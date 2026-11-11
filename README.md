@@ -1,6 +1,6 @@
-# Next.js 스타터킷
+# Next.js Starter Kit
 
-웹 개발을 빠르게 시작할 수 있는 Next.js 스타터킷입니다.
+웹 개발을 빠르게 시작할 수 있는 Next.js Starter Kit입니다.
 
 ## 기술 스택
 
